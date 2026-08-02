@@ -71,6 +71,6 @@ Kelompok usia (18-27) tahun paling dominan di Beauty & Clothing, sejalan dengan 
 ## Conclusion
 * **Ketegori Produk:** Electronics mencatat pendapatan tertinggi ($156.905), namun selisihnya sangat tipis dengan Clothing ($155.580). Beauty juga berkontribusi cukup besar ($143.515). Artinya, ketiga kategori relatif seimbang dalam kontribusi pendapatan.
 * **Gender:** Female sedikit lebih tinggi dalam total belanja dibanding Male. Female dominan di Clothing & Beauty, sementara Male dominan di Electronics.
-* **Usia:** Kelompok usia muda (18–27 tahun) mendominasi Beauty & Clothing. Namun, Electronics justru paling diminati kelompok usia 48–57 tahun, bukan usia muda seperti asumsi umum.
+* **Usia:** Kelompok usia muda (18–27 tahun) mendominasi Beauty & Clothing. Namun, Electronics justru paling diminati kelompok usia (48–57 tahun), bukan usia muda seperti asumsi umum.
 * **Pola Waktu:** Penjualan harian fluktuatif dengan lonjakan pada periode tertentu. Bulan Mei, Oktober, dan Desember adalah puncak penjualan, menunjukkan adanya pola musiman yang bisa dimanfaatkan untuk promosi.
 * **Harga vs Kuantitas:** Hampir tidak ada korelasi antara harga satuan dan jumlah barang yang dibeli. Pembelian multi-unit (3–4 unit) menyumbang porsi terbesar, terutama Electronics pada Qty 4 ($69.680).
