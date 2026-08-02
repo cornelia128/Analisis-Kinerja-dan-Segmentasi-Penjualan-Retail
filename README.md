@@ -1,4 +1,4 @@
-# Analisis Performa Penjualan Ritel dan Tren Perilaku Belanja Konsumen Berdasarkan Demografi
+# Analisis Kinerja dan Segmentasi Penjualan Retail
 
 ## Business Problem
 Perusahaan retail memiliki data transaksi yang mencakup berbagai kategori produk, karakteristik pelanggan, dan informasi penjualan, namun belum dimanfaatkan secara optimal untuk mendukung pengambilan keputusan bisnis. Akibatnya, perusahaan belum mengetahui kategori produk yang paling menguntungkan, karakteristik pelanggan dengan kontribusi pendapatan terbesar, pola penjualan berdasarkan waktu, maupun pengaruh harga terhadap jumlah pembelian. Oleh karena itu, diperlukan analisis data transaksi untuk menghasilkan insight yang dapat mendukung strategi pemasaran, pengelolaan stok, dan penentuan target pelanggan secara lebih efektif guna meningkatkan penjualan dan pendapatan perusahaan.
@@ -35,7 +35,7 @@ Perusahaan retail memiliki data transaksi yang mencakup berbagai kategori produk
 * Mengelompokkan pelanggan ke dalam rentang usia dan membandingkan total belanja mereka per kategori produk.
 
 ## Dashboard Excel
-[Dashboard Excel - Retail Sales Performance Dashboard](https://1drv.ms/x/c/33df3e24b33e1e8a/IQDIvAH6RuqbSrRrh2Oj9aJ2AYuBvZxfvnXAbHeLUbi0_Lw?e=aKErDX)
+[Dashboard Excel - Retail Sales Performance Dashboard](https://1drv.ms/x/c/33df3e24b33e1e8a/IQBkAnod36DORLytjkWs9KGiAeINmNKZ_6PkzFp84CF1vcQ?e=MWF3SO)
 
 <img src="https://github.com/cornelia128/Analisis-Kinerja-dan-Segmentasi-Penjualan-Retail/blob/main/images/Dashboard%20Excel.png?raw=true" width=500 height=300>
 
