@@ -61,7 +61,7 @@ Total belanja meningkat seiring bertambahnya Quantity di hampir semua kategori, 
 
 Kelompok usia 18-27 tahun paling dominan di Beauty & Clothing, sejalan dengan gaya hidup dan tren fashion/perawatan diri usia muda. Electronics justru paling diminati kelompok usia 48-57 tahun; bukan usia muda seperti asumsi umum. Kelompok usia 58-67 tahun konsisten menjadi kontributor terendah di semua kategori. Usia muda (18-27) mendominasi Beauty & Clothing, sedangkan Electronics justru paling diminati usia 48-57 tahun.
 
-## Reccomendation
+## Recommendation
 * Alokasikan stok dan anggaran promosi lebih besar pada Electronics dan Clothing yang konsisten menjadi kontributor pendapatan tertinggi.
 * Tingkatkan stok dan intensitas promosi menjelang bulan Mei, Oktober, dan Desember sebagai periode puncak penjualan historis.
 * Jalankan promosi Clothing/Beauty untuk segmen Female, dan promosi Electronics untuk segmen Male guna mengoptimalkan konversi.
@@ -69,3 +69,8 @@ Kelompok usia 18-27 tahun paling dominan di Beauty & Clothing, sejalan dengan ga
 * Targetkan kelompok usia 48-57 tahun untuk kampanye Electronics, bukan hanya asumsi usia muda sebagai target utama.
  
 ## Conclusion
+* **Ketegori Produk:** Electronics mencatat pendapatan tertinggi ($156.905), namun selisihnya sangat tipis dengan Clothing ($155.580). Beauty juga berkontribusi cukup besar ($143.515). Artinya, ketiga kategori relatif seimbang dalam kontribusi pendapatan.
+* **Gender:** Female sedikit lebih tinggi dalam total belanja dibanding Male. Female dominan di Clothing & Beauty, sementara Male dominan di Electronics.
+* **Usia:** Kelompok usia muda (18–27 tahun) mendominasi Beauty & Clothing. Namun, Electronics justru paling diminati kelompok usia 48–57 tahun, bukan usia muda seperti asumsi umum.
+* **Pola Waktu:** Penjualan harian fluktuatif dengan lonjakan pada periode tertentu. Bulan Mei, Oktober, dan Desember adalah puncak penjualan, menunjukkan adanya pola musiman yang bisa dimanfaatkan untuk promosi.
+* **Harga vs Kuantitas:** Hampir tidak ada korelasi antara harga satuan dan jumlah barang yang dibeli. Pembelian multi-unit (3–4 unit) menyumbang porsi terbesar, terutama Electronics pada Qty 4 ($69.680).
