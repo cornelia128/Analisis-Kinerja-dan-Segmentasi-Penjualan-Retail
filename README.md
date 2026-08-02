@@ -37,7 +37,29 @@ Perusahaan retail memiliki data transaksi yang mencakup berbagai kategori produk
 ## Dashboard Excel
 [Dashboard Excel - Retail Sale Performance Dashboard](https://1drv.ms/x/c/33df3e24b33e1e8a/IQDIvAH6RuqbSrRrh2Oj9aJ2AYuBvZxfvnXAbHeLUbi0_Lw?e=aKErDX)
 
+<img src="https://github.com/cornelia128/Analisis-Kinerja-dan-Segmentasi-Penjualan-Retail/blob/main/images/Dashboard%20Excel.png?raw=true" width=500 height=300>
+
 ## Business Insights
+
+<img src="https://github.com/cornelia128/Analisis-Kinerja-dan-Segmentasi-Penjualan-Retail/blob/main/images/Distribusi%20Kategori%20Produk.jpg?raw=true" width=500 height=300>
+
+Electronics menghasilkan pendapatan tertinggi ($156.905), namun selisihnya sangat tipis terhadap Clothing ($155.580), hanya sekitar 0,85%. Beauty berada di posisi terakhir ($143.515), namun perbedaannya terhadap dua kategori lain tidak signifikan (<10%). Ketiga kategori berkontribusi hampir merata terhadap total pendapatan $456.000.
+
+<img width="1541" height="213" alt="image" src="https://github.com/user-attachments/assets/6f865733-c290-443a-850f-dfc18887b083" />
+
+Pola belanja harian sangat fluktuatif dengan lonjakan tajam (spike) di beberapa tanggal tertentu; indikasi adanya event, promo, atau payday effect. Bulan Mei, Oktober, dan Desember tercatat sebagai bulan dengan total pendapatan tertinggi sepanjang 2023, mengindikasikan pola musiman yang bisa dimanfaatkan untuk perencanaan promosi.
+
+<img src="https://github.com/cornelia128/Analisis-Kinerja-dan-Segmentasi-Penjualan-Retail/blob/main/images/Tren%20Belanja%20Harian%202023.jpg?raw=true" width=500 height=300>
+
+Female mencatat total belanja sedikit lebih tinggi dari Male. Female paling dominan di Clothing ($81.275), sementara Male paling dominan di Electronics ($80.170). Beauty menjadi kategori dengan selisih gender terbesar; Female lebih unggul dibanding Male.
+
+<img src="https://github.com/cornelia128/Analisis-Kinerja-dan-Segmentasi-Penjualan-Retail/blob/main/images/Perbandingan%20Gender.jpg?raw=true" width=500 height=300>
+
+Total belanja meningkat seiring bertambahnya Quantity di hampir semua kategori, dengan pembelian 3–4 unit menyumbang porsi terbesar. Electronics pada Qty 4 mencatat kontribusi tertinggi; mengindikasikan potensi bundling/paket produk elektronik.
+
+<img src="https://github.com/cornelia128/Analisis-Kinerja-dan-Segmentasi-Penjualan-Retail/blob/main/images/Kuantitas%20per%20Kategori.jpg?raw=true" width=500 height=300>
+
+Kelompok usia 18-27 tahun paling dominan di Beauty & Clothing, sejalan dengan gaya hidup dan tren fashion/perawatan diri usia muda. Electronics justru paling diminati kelompok usia 48-57 tahun; bukan usia muda seperti asumsi umum. Kelompok usia 58-67 tahun konsisten menjadi kontributor terendah di semua kategori.
 
 ## Reccomendation
 ## Conclusion
